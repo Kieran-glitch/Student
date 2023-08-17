@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="name">Name</string>
+    <string name="Email">Email</string>
+    <string name="enter">Enter Details</string>
+    <string name="insert">Insert Data</string>
+    <string name="num">Number</string>
+    <string name="School">School</string>
+</resources>
